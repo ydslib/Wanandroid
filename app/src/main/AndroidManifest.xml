@@ -9,6 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Wanandroidyds"
+        android:resizeableActivity="true"
         android:name=".WanApp">
         <activity
             android:name=".MainActivity"
